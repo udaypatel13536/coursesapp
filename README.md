@@ -10,7 +10,8 @@
  - Add middlewares for user and admin auth
  - Complete the routes for user login, signup, purchase a course, see course (Extra points - Use express routing to better structure your routes)
  - Create the frontend
-
+ - superadmin have accec to add admin by using ganerat code for the admin account and this code only use to once, And once admin creat account then superadmin have to verify by his account
+ - first Superadmin account creat by given CODE in for First Superadmin 
 
  Good to haves
   - Use cookies instead of JWT for auth
